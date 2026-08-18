@@ -1,5 +1,8 @@
 # Consensus Engine
 
+> [!IMPORTANT]
+> Canonical development has been consolidated into [`vigilanty0x/promptops`](https://github.com/vigilanty0x/promptops), under [`packages/consensus-engine`](https://github.com/vigilanty0x/promptops/tree/main/packages/consensus-engine). This repository remains available to preserve its source history and compatibility reference. The imported `0.1.0` package keeps the `consensus-engine` distribution and CLI names. This notice does not claim a package-index transfer or publication.
+
 Weighted quorum consensus with explicit split and blocked outcomes.
 
 Offline Python 3.11+ MVP with zero runtime dependencies, deterministic JSON evidence, bounded inputs, a CLI, synthetic tests, and fail-visible errors.
